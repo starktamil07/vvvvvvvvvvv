@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: yellow;
+    cursor: pointer;
+}
+li:hover{
+     color:blueviolet;
+}
+input{
+    width: 60%;
+    padding: 8px;
+}
+.two{
+    padding: 50px;
+    text-align: center;
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 300px;
+
+}
+.box:hover{
+    background-color: black;
+    color: white;
+}
+
+.three{
+    text-align: center;
+}
+.four{
+    text-align: center;
+    margin-top: 20px;
+    padding: 30px;
+}
